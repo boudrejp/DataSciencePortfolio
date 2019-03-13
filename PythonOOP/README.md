@@ -6,6 +6,15 @@ Object Oriented Programming Example by John Boudreaux
 * Clone or download this repository
 * In a shell, execute the `elFarol.py` script with Python 3
 
+## Contents
+* __Farol Module__: A folder containing Python code for all the applicable classes included in the simulation; see *Object Based Considerations* below
+* __Farol_logfile.txt__: An example log file if the log option is shown
+* __Presentation_Helper.ipynb__: A brief Jupyter notebook introducing the problem with a visual
+* __README.md__: What you are reading right now :)
+* __diagram.jpg__: Picture used in `Presentation_Helper.ipynb`
+* __elFarol.py__: Main script for running El Farol simulation
+
+
 ## Background
 * Simulations of the El Farol problem
   * https://en.wikipedia.org/wiki/El_Farol_Bar_problem
