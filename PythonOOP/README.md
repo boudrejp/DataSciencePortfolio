@@ -36,7 +36,7 @@ add graphing if it seems like I have already met the other requirements.
 ## Dependencies
 * math
 * random
-
+* matplotlib
 
 
 ## Object based considerations
