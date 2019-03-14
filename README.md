@@ -10,7 +10,7 @@ A collection of selected data science projects to demonstrate skill sets, knowle
   * Machine learning projects (multiple)
   * Basic data access and manipulation (SQL queries for business applications)
   * Dockerized applications
-* New and ongoing projects
+* __New and ongoing projects__
   * More machine learning projects
     * Focus on deep learning architectures, reinforcement learning, time series applications
   * R Shiny applications, to be deployed to public R Shiny Server
