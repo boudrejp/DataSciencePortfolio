@@ -29,9 +29,7 @@ looks like I need more lines of code, then maybe we look at agents of different
 memory lengths).
 
 This is a fundamental problem in complexity theory, and shows how even very random
-situations can lead to emergent behavior. Because of this, I think adding graphing
-capabilities to this project would help people understand that. I think I will only
-add graphing if it seems like I have already met the other requirements.
+situations can lead to emergent behavior. 
 
 ## Dependencies
 * math
