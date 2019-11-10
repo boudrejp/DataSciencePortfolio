@@ -4,11 +4,11 @@ A collection of selected data science projects to demonstrate skill sets, knowle
 ## Contents
 * __PythonOOP__: An object oriented programming example in Python 3 which will run simulations of the El Farol problem from complexity theory
 * __PythonWebScraping__: Simple web scraping example using Python's `beautifulsoup` and some initial processing, feature generation in R for international rugby scoring statistics.
+* __SQL__: Examples of executing and formulating SQL queries for selected simulated business cases.
 
 ## In Progress
 * __Movement of old projects into this repository__
   * Machine learning projects (multiple)
-  * Basic data access and manipulation (SQL queries for business applications)
   * Dockerized applications
 * __New and ongoing projects__
   * More machine learning projects
